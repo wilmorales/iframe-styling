@@ -1,0 +1,9 @@
+# Specify filepatterns you want git to ignore.
+.DS_Store
+/vendor/
+/.parcel-cache/
+/.cache/
+/node_modules/
+triplew.config.js
+*.css.map
+*.js.map
